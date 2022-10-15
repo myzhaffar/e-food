@@ -1,0 +1,65 @@
+{
+  "makanan": [
+    {
+      "id": 1,
+      "name": "bakso",
+      "harga": 100000
+    },
+    {
+      "id": 2,
+      "name": "sate",
+      "harga": 100000
+    },
+    {
+      "id": 3,
+      "name": "bubur",
+      "harga": 100000
+    },
+    {
+      "id": 4,
+      "name": "nasi",
+      "harga": 100000
+    }
+  ],
+  "minuman": [
+    {
+      "id": 1,
+      "name": "kopi",
+      "harga": 100
+    },
+    {
+      "id": 2,
+      "name": "teh",
+      "harga": 100
+    },
+    {
+      "id": 3,
+      "name": "susu",
+      "harga": 100
+    }
+  ],
+  "snack": [
+    {
+      "id": 1,
+      "name": "roti",
+      "harga": 100
+    },
+    {
+      "id": 2,
+      "name": "burger",
+      "harga": 100
+    },
+    {
+      "id": 3,
+      "name": "pohong",
+      "harga": 100
+    }
+  ],
+  "customer": [
+    {
+      "pesanan": [],
+      "nama": "dadang",
+      "id": 1
+    }
+  ]
+}
